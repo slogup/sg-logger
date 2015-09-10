@@ -1,0 +1,14 @@
+{
+  "name": "sg-logger",
+  "version": "0.0.1",
+  "description": "sg-logger for node.js",
+  "keywords": [],
+  "author": "hwaranglee <dev@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/slogup/sg-logger.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
